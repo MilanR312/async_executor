@@ -4,7 +4,6 @@ use core::{
 };
 
 use crate::{
-    debug,
     mpsc::Sender,
     task::{Task, TaskId},
 };
